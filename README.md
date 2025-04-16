@@ -1,4 +1,6 @@
-# WebDev-Coursework-GaryGu
-This repository is my learning process for total 11 units including screenshots and codes
-<h1>111
-<h2>222
+# WebDev-Coursework-GaryGu•	Your name
+•	Course title: "Intro to Web Development"
+•	Instructor: Mr. Gullo 
+•	Course Authors: Mary Kiang, Atiyah Conry
+•	Date of completion
+
