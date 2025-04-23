@@ -17,7 +17,7 @@
 •	Unit 10 - Feedback and Iteration (Community Client)  
 •	Unit 11 - Recap, Reflect, and Next Steps   -->
 #  Intro to Web Development 
-
+- **Course title:** "Intro to Web Development" 
 - **Name:** Gary Gu
 - **Instructor:** Mr. Gullo
 - **Course Authors:** Mary Kiang, Atiyah Conry
