@@ -18,7 +18,7 @@
 •	Unit 11 - Recap, Reflect, and Next Steps   -->
 #  Intro to Web Development 
 
-- **Name:**Gary Gu
+- **Name:** Gary Gu
 - **Instructor:** Mr. Gullo
 - **Course Authors:** Mary Kiang, Atiyah Conry
 - **Date of Completion:** [Date Here]
