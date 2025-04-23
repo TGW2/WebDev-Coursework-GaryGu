@@ -1,0 +1,3 @@
+# Unit 3 Reflection
+
+In this unit, I started working on the Client Web Page project and learned how to use the Design Thinking Process in web development. I interviewed my client to understand their needs and created a clear define statement. One challenge I faced was turning the client’s ideas into a simple and clear web design. To solve this, I sketched different layouts and asked for feedback before coding. This process helped me focus more on the user’s experience. Building the first version of the web page made me realize how important planning and communication are in development. This unit connected design with real client needs, making my work feel more meaningful.
