@@ -1,5 +1,5 @@
 #  Intro to Web Development 
-- **Course title:** "Intro to Web Development" 
+- **Course title:** Intro to Web Development
 - **Name:** Gary Gu
 - **Instructor:** Mr. Gullo
 - **Course Authors:** Mary Kiang, Atiyah Conry
