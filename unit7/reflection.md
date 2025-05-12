@@ -1,0 +1,3 @@
+# Unit 7 Reflection
+
+In this unit, I learned about the Global Goals and why they are important in solving real-world problems. I explored the different goals and their specific targets, and I also studied how the Global Goals website is designed, both in content and layout. I learned how to use the Design Thinking Process to plan a website that focuses on one of the goals. I picked a goal that connects to an issue in my own community and started designing a website to help address it. This unit helped me understand how design and global action can work together.
