@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+    .hidden {
+        display: none;
+    }
+    .block{
+            color: red;
+            background-color: yellow;
+        }
+
+    </style>
+  </head>
+  <body>
+    <h1>display: none</h1>
+    <p class="hidden">This paragraph will not be displayed.</p>
+    <p>But this will</p>
+
+    <h1>display: inline</h1>
+    <p>The display value 'inline' displays an element on the same line with other elements.</p>
+    <button>Button 1</button> <button>Button 2</button> <button>Button 3</button>
+
+    <h1>display: block</h1>
+    <p>An element with the display value 'block' takes up the full width available.</p>
+    <div class="block">Block element 1</div>
+    <div class="block">Block element 2</div>
+    <div class="block">Block element 3</div>
+
+    <br>
+  
+    <h1>display: inline-block</h1>
+    <div style="display: inline-block; width: 100px; height: 100px; background-color: red;"></div>
+    <div style="display: inline-block; width: 100px; height: 150px; background-color: blue;"></div>
+    <div style="display: inline-block; width: 150px; height: 150px; background-color: green;"></div>
+    <div style="display: inline-block; width: 75px; height: 100px; background-color: purple;"></div>
+  
+    <h1>display: flex</h1>
+    <p>Elements with display value 'flex' are displayed with a flexible box layout.</p>
+    <div style="display: flex; justify-content: space-around;">
+      <div>Item 1</div>
+      <div>Item 2</div>
+      <div>Item 3</div>
+    </div>
+
+
+    <h1>display: grid</h1>
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
+      <div style="background-color: lightblue;">1</div>
+      <div style="background-color: lightgreen;">2</div>
+      <div style="background-color: lightcoral;">3</div>
+      <div style="background-color: lightyellow;">4</div>
+      <div style="background-color: lightgrey;">5</div>
+      <div style="background-color: lightpink;">6</div>
+    </div>
+  </body>
+</html>
