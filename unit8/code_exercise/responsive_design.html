@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>responsive/adaptive design</title>
+    <style>
+      /* Fluid grids are layouts that use relative units like percentages instead of
+       fixed units like pixels. They adapt to the screen size and help create a 
+       flexible foundation for the website. */
+    .container {
+        width: 100%;
+    }
+
+    .column {
+        float: left;
+        width: 33.33%; /* 100% divided by 3 */
+    }
+    /* Flexible images are images that scale within their containing elements to fit 
+    different screen sizes without breaking the layout. */
+    img {
+            max-width: 100%;
+            height: auto;
+        }
+    /* This CSS technique applies different styling rules based on the device 
+    characteristics (usually the width of the browser) of the device the user is 
+    using to visit a website. */
+    @media (max-width: 600px) {
+        body {
+            background-color: lightblue;
+        }
+    }
+    @media (min-width: 601px) and (max-width: 1024px) {
+        body {
+            background-color: lightgreen;
+        }
+    }
+    @media (min-width: 1025px) {
+        body {
+            background-color: lightcoral;
+        }
+    }
+</style>
+
+  </head>
+  <body>
+    <h1>here's a large paragraph</h1>
+    <div class="container">
+    <div class="column">column 1</div>
+    <div class="column">column 2</div>
+    <div class="column"> column 3 </div>
+    </div>
+
+    <div class="img"><img src="Hikaru_Utada.png" alt="the Visual Studio Code icon" /></div>
+
+  </body>
+  
+</html>
