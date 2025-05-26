@@ -1,4 +1,5 @@
-#  Intro to Web Development 
+# Intro to Web Development
+
 - **Course title:** Intro to Web Development
 - **Name:** Gary Gu
 - **Instructor:** Mr. Gullo
@@ -7,7 +8,7 @@
 
 ---
 
-##  Table of Contents
+## Table of Contents
 
 - [Unit 1 - The Web and Web Development ](#unit1)
 - [Unit 2 - Design and Design Thinking ](#unit2)
