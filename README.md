@@ -4,7 +4,7 @@
 - **Name:** Gary Gu
 - **Instructor:** Mr. Gullo
 - **Course Authors:** Mary Kiang, Atiyah Conry
-- **Date of Completion:** May 27
+- **Date of Completion:** May 27, 2025
 
 ---
 
